@@ -172,6 +172,11 @@ a {
     text-decoration: none;
 }
 
+section.tech {
+    background-color: #aaa;
+    color: black;
+}
+
 footer {
     background-color: black;
     color: white;
